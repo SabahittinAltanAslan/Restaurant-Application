@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ProgMaui.Views.UpdateProductPage"
+             Title="Update Product">
+
+    <StackLayout Padding="10">
+        <!-- UI elements for updating an existing product -->
+        <Entry x:Name="ProductNameEntry" Placeholder="Product Name" />
+        <Entry x:Name="ProductPriceEntry" Placeholder="Product Price" Keyboard="Numeric" />
+        <Button Text="Update" Clicked="OnUpdateClicked" />
+    </StackLayout>
+
+</ContentPage>

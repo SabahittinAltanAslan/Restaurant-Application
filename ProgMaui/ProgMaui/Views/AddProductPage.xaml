@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ProgMaui.Views.AddProductPage"
+             Title="Add Product">
+
+    <StackLayout Padding="10">
+        <!-- UI elements for adding a new product -->
+        <Entry x:Name="ProductNameEntry" Placeholder="Product Name" />
+        <Entry x:Name="ProductPriceEntry" Placeholder="Product Price" Keyboard="Numeric" />
+
+        <!-- Dropdown listesi (Picker) -->
+        <Picker x:Name="ProductCategoryPicker" Title="Select Category" />
+
+        <Button Text="Save" Clicked="OnSaveClicked" />
+    </StackLayout>
+
+</ContentPage>

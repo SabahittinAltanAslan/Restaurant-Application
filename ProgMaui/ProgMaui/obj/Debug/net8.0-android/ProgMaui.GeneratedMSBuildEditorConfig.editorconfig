@@ -1,0 +1,77 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = true
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0-android
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ProgMaui
+build_property.ProjectDir = C:\Users\Legen\OneDrive\Belgeler\GitHub\Restaurant-Application\ProgMaui\ProgMaui\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+
+[C:/Users/Legen/OneDrive/Belgeler/GitHub/Restaurant-Application/ProgMaui/ProgMaui/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProgMaui.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/Legen/OneDrive/Belgeler/GitHub/Restaurant-Application/ProgMaui/ProgMaui/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProgMaui.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/Legen/OneDrive/Belgeler/GitHub/Restaurant-Application/ProgMaui/ProgMaui/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProgMaui.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/Users/Legen/OneDrive/Belgeler/GitHub/Restaurant-Application/ProgMaui/ProgMaui/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProgMaui.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/Legen/OneDrive/Belgeler/GitHub/Restaurant-Application/ProgMaui/ProgMaui/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProgMaui.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Users/Legen/OneDrive/Belgeler/GitHub/Restaurant-Application/ProgMaui/ProgMaui/Views/AddProductPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProgMaui.Views.AddProductPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\AddProductPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\AddProductPage.xaml
+
+[C:/Users/Legen/OneDrive/Belgeler/GitHub/Restaurant-Application/ProgMaui/ProgMaui/Views/ManageProduct.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProgMaui.Views.ManageProduct.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\ManageProduct.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\ManageProduct.xaml
+
+[C:/Users/Legen/OneDrive/Belgeler/GitHub/Restaurant-Application/ProgMaui/ProgMaui/Views/OrdersPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProgMaui.Views.OrdersPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\OrdersPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\OrdersPage.xaml
+
+[C:/Users/Legen/OneDrive/Belgeler/GitHub/Restaurant-Application/ProgMaui/ProgMaui/Views/ProductsPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProgMaui.Views.ProductsPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\ProductsPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\ProductsPage.xaml
+
+[C:/Users/Legen/OneDrive/Belgeler/GitHub/Restaurant-Application/ProgMaui/ProgMaui/Views/UpdateProductPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ProgMaui.Views.UpdateProductPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\UpdateProductPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\UpdateProductPage.xaml

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ProgMaui.Views.ManageProduct"
+             Title="Manage Products">
+    <StackLayout Padding="10">
+        <CollectionView x:Name="ProductsCollectionView"
+                        SelectionMode="Single"
+                        SelectionChanged="OnSelectionChanged">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <StackLayout Orientation="Horizontal" Padding="10">
+                        <Label Text="{Binding Name}" VerticalOptions="Center" HorizontalOptions="StartAndExpand" />
+                        <Label Text="{Binding Price}" VerticalOptions="Center" HorizontalOptions="End" />
+                        <Button Text="Delete" Clicked="OnDeleteClicked" CommandParameter="{Binding Id}" />
+                    </StackLayout>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+
+        <Button Text="Add Product" Clicked="OnAddProductClicked" />
+    </StackLayout>
+</ContentPage>
